@@ -40,8 +40,8 @@ const HeroContent = () => {
               Goutam Kumar{" "}
             </span>
             <br />
-            <span className="text-1xl font-bold text-white">
-            And i am a{" "}
+            <span className="text-2xl font-bold text-white">
+            and i am a{" "}
             </span>
           <span className="text-2xl font-bold text-red-500">
           <Typewriter
